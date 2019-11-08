@@ -1,0 +1,4 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+4a7f2a0e-f0c7-5070-8e7b-ac72b5ab7968	11724	case	81d11171-5d9e-4950-98f8-b0ab0f2d7908	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy of L breast cancer. No systemic chemotherapy or radiation. Prior malignancy  R breast cancer treated with taxoterene.
+b5ede1f3-b042-5944-8188-ad73d5b53de2	3396	case	81d11171-5d9e-4950-98f8-b0ab0f2d7908	Prior malignancy	Notification	2011-09-18T00:00:00	Approved	Prior malignancy of breast ductal and lobular carcinoma
+e0d93a15-281f-53c1-b417-db23af1fe76a	11939	case	81d11171-5d9e-4950-98f8-b0ab0f2d7908	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy of L breast cancer. No systemic chemotherapy or radiation. Prior malignancy  R breast cancer treated with taxoterene.

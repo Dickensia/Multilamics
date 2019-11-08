@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+ca462474-5d6f-574f-9fab-66a308c40ee4	3394	case	b0585c7a-7205-4dac-9d54-6da89674accb	Prior malignancy	Notification	2011-09-18T00:00:00	Approved	Prior malignancy of high grade endometrial carcinoma

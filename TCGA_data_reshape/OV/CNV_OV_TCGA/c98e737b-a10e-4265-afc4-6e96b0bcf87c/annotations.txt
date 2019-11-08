@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+bb413d44-c130-5fcc-a7f6-ccc0de597a30	1247	case	7fd6ab8a-201e-431d-a886-6ab553b6ca36	Item in special subset	Notification	2011-01-28T00:00:00	Approved	This is part of the ovarian triplet set.

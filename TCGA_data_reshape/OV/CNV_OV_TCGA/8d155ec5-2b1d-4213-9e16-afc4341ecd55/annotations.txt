@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+e0f66b5c-6414-5c8f-a5ab-09cd4fa78110	684	case	47feba88-1ec9-4904-b0e2-3718f294badb	Item may not meet study protocol	Observation	2010-07-30T00:00:00	Approved	[schaefc]: Pathology indicates Stage I disease

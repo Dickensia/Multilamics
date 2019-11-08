@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+60110db8-dd2e-5801-9e6c-22527b3ebfdc	11931	case	c9226204-cb61-40b8-8a94-a7e71c14ea3a	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy  breast cancer treated with systemic treatment per path report.

@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+3aa7521d-e468-54ab-bf86-df395fd72479	3386	case	0fc8777c-8f12-472f-a0ea-085139b35d1f	Prior malignancy	Notification	2011-09-18T00:00:00	Approved	Prior malignancy of metastatic breast cancer
+2cda17a6-f948-5e8c-a580-8af167d55a3e	682	case	0fc8777c-8f12-472f-a0ea-085139b35d1f	Item may not meet study protocol	Observation	2010-07-30T00:00:00	Approved	[schaefc]: Pathology indicates Stage I disease

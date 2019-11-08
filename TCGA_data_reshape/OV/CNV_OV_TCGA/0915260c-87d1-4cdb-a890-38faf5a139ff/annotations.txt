@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+5c84079d-cc64-510a-801a-22f3ee70bdb1	11916	case	ea6405c4-0fe4-4f37-bef2-275072f91e39	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy right breast cancer treated with chemo and radiation per path report.
+6eb57ffc-dc1c-5591-a3ed-ea216ec5f5b6	5487	case	ea6405c4-0fe4-4f37-bef2-275072f91e39	Prior malignancy	Notification	2012-03-20T00:00:00	Approved	\N

@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+4e6b5074-7264-55b0-be73-333f9b5893be	3393	case	40635bf3-d8ba-4833-b623-547e55e5d07e	Prior malignancy	Notification	2011-09-18T00:00:00	Approved	Prior malignancy of breast cancer

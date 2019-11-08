@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+ae965981-0597-5c57-a2dd-d53432eadf67	692	sample	a65361d0-e9ae-4d90-bbf7-70bc213d263e	Tumor class but appears normal	Observation	2010-07-30T00:00:00	Approved	[schaefc]: Genomic data resembles normal data
+aeeabe5b-408f-50ba-bee9-411a77cc312b	642	case	1c0318d9-0472-4840-add4-46bb9f914a30	Neoadjuvant therapy	Notification	2010-09-02T00:00:00	Approved	[intgen.org]: Subject Positive for Neo-Adjuvant Therapy

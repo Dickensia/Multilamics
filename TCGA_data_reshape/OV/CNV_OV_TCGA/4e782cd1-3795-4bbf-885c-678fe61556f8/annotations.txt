@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+c9a93f87-19a5-54c2-9379-4a0add82b999	1712	analyte	f7b26c0f-4c1d-4a4b-9b28-4f8c889b4683	Item is noncanonical	Notification	2011-03-14T00:00:00	Approved	Fallopian Normals

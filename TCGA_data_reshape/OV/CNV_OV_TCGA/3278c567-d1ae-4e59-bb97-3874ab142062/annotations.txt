@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+d86a2f83-303f-58e8-b24d-0c8d6c8cde39	823	case	80f85c54-e12f-4afa-8fa5-5f3e083b6f95	General	Observation	2010-10-28T00:00:00	Approved	This subject was duplicated by TCGA-24-0981; 0981 was redacted and this one retained
