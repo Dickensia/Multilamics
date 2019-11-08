@@ -1,3 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-8a5e60c8-5a21-5231-97c0-91efc6c4ca56	1237	case	b25b3379-df8f-4900-9bce-0f8df50f549b	Item in special subset	Notification	2011-01-28T00:00:00	Approved	This is part of the ovarian triplet set.
-070cc865-fb75-5e0d-afa9-c5cb7c1ae59c	1816	analyte	5c5c379e-bbb3-4daa-9d8d-7b8450b0c45b	Item is noncanonical	Notification	2011-03-14T00:00:00	Approved	Ovary Triplet

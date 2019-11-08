@@ -1,2 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-f112fffb-7efb-51d0-aafe-882a73aac67b	646	case	eef62876-7d17-496a-8971-2c7008d77014	Pathology outside specification	Notification	2010-09-02T00:00:00	Approved	[intgen.org]: Pathology Results off Spec

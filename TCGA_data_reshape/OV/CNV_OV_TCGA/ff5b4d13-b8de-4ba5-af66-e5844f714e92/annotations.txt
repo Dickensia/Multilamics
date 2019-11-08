@@ -1,2 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-6fc32e6c-8b1a-56bd-bde1-3f7a8a27cb35	1043	case	05eb8bd5-d31b-4595-921a-366e53ea5a8b	Molecular analysis outside specification	Notification	2010-12-08T00:00:00	Approved	[intgen.org]:Molecular analysis outside specification

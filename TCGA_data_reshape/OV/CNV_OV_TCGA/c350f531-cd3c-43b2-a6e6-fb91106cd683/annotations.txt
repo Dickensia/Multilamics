@@ -1,2 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-dbe20ea8-6859-51ad-b7f2-20bea3020efa	693	sample	91b4c678-b371-4571-a201-d0f00cc458c6	Normal class but appears diseased	Observation	2010-07-30T00:00:00	Approved	[schaefc]: Genomic data resembles tumor data

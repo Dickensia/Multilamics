@@ -1,3 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-482b5394-529f-5def-b59b-2bdec5463963	2391	sample	43c556ed-873c-4a2d-9f33-68e2e7790ba1	Item in special subset	Notification	2011-04-06T00:00:00	Approved	[intgen.org]: Normal Tissue contained Tumor
-344e420e-c277-583f-a1a5-cc92915ef9a8	1243	case	778ce436-a825-4689-81c1-b7c965404163	Item in special subset	Notification	2011-01-28T00:00:00	Approved	This is part of the ovarian triplet set.

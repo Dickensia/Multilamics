@@ -1,2 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-0a602001-7fcc-5771-a2c1-ced664e55145	3395	case	3ea880f4-7a78-4cb7-bfe4-54b3c30a812e	Prior malignancy	Notification	2011-09-18T00:00:00	Approved	Prior malignancy of ovarian cancer

@@ -1,2 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-a9c1f076-f84f-5513-bc58-efed746b6b60	2146	analyte	d94ece08-f820-49e4-998c-f32dca23b56c	Item is noncanonical	Notification	2011-03-14T00:00:00	Approved	miRNA Extraction Validation

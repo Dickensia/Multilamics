@@ -1,4 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-75f708f5-fc14-570c-8ee1-c5cfb5c950e8	1241	case	5abb6d80-fc39-49a4-8db5-3db24543feb6	Item in special subset	Notification	2011-01-28T00:00:00	Approved	This is part of the ovarian triplet set.
-fdd35535-b033-5561-90e5-3069253c9ec5	1503	analyte	45a142ee-dbe6-4d47-aa56-8391e36b1f7b	Item is noncanonical	Notification	2011-03-14T00:00:00	Approved	Ovary Triplet
-8aceb830-feda-53fa-baa2-ee278f60fa31	29480	aliquot	dea4702d-8a1e-4b70-b463-1ead2345e265	Item flagged DNU	CenterNotification	2015-09-28T00:00:00	Approved	The aliquot failed Broad pipeline QC and not all files are suitable for use. Consult the SDRF file to determine which files are usable.

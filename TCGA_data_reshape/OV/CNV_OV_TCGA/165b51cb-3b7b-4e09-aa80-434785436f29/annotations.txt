@@ -1,3 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-76d64873-1a5b-5205-89a0-e19ba001e949	1433	analyte	79ffec89-15eb-4636-b0e7-4f1707a1969e	Item is noncanonical	Notification	2011-03-14T00:00:00	Approved	Ovary Triplet
-6b415596-3ae3-50a9-b69b-5163f32b2027	1252	case	7248cd60-be22-44bc-bc58-f644db0940a2	Item in special subset	Notification	2011-01-28T00:00:00	Approved	This is part of the ovarian triplet set.

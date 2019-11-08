@@ -1,5 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-b8fa4fa6-a9d9-5ce5-bf42-f18c85bff0f2	29483	aliquot	76fa62b1-c7f9-4264-a862-f0b66eae7966	Item flagged DNU	CenterNotification	2015-09-28T00:00:00	Approved	The aliquot failed Broad pipeline QC and not all files are suitable for use. Consult the SDRF file to determine which files are usable.
-48ddd5c2-532f-5bf4-a605-d87f54006442	1244	case	9e18238f-ae85-4b75-ae87-d92da9731a40	Item in special subset	Notification	2011-01-28T00:00:00	Approved	This is part of the ovarian triplet set.
-69c9a18e-f3d6-598d-ab86-41a4e97945f9	1808	analyte	f441fe4f-acca-43ad-a6d5-5a851908864d	Item is noncanonical	Notification	2011-03-14T00:00:00	Approved	Ovary Triplet
-28ba580a-8d0f-51a2-b64c-bbdf2c1fe71a	20470	sample	8a53cd24-5041-418b-811b-33b72c165798	Item is noncanonical	Notification	2014-04-07T00:00:00	Approved	Ovarian Triplet  Sample TCGA-23-1023-01R is a recurrent sample that for historical reasons has retained the -01R designation rather than the conventional -02R designation used elsewhere in TCGA.
